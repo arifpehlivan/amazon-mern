@@ -63,7 +63,8 @@ function HomeScreen() {
                                             <Product product={product}></Product>
                                         </Col>
                                     )
-                                    )}</Row>
+                                    )}
+                                </Row>
                             )
                 }
             </div>
